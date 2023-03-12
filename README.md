@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working Full Stack Developer. 
+- 🔭 I’m currently working as Full Stack Developer. 
 - 🌱 I’m currently learning React Js. 
 - 👯 I’m looking to collaborate on GSOC.
 - 💬 Ask me about Web Developer.
