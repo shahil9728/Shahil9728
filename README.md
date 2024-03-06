@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Developer. 
-- 🌱 I’m currently learning Web3. 
+- 🔭 I’m currently working as a Full Stack Developer. 
+- 🌱 I’m currently learning Blockchain. 
 - 👯 I’m looking to collaborate on GSOC.
 - 💬 Ask me about Web Developer.
 - 📫 How to reach me: shahilverma91383@gmail.com
